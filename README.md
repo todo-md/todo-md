@@ -6,7 +6,7 @@ Standard for markdown todo files.
 
 This document describes a multi project task management using standardized `TODO.md` markdown files.
 
-Markdown todo files are simple markdown flavored text files. The **TODO.md** standard depicts an interchangeable standard for task management that is easily processable by machines and humans. It is aimed for teams and individuals that manage multiple project repositories and want to manage their todos the "git-way".
+Markdown todo files are simple markdown flavored text files. The TODO.md standard depicts an interchangeable standard for task management that is easily processable by machines and humans. It is aimed for teams and individuals that manage multiple project repositories and want to manage their todos the "git-way".
 
 ### Structure
 
@@ -101,5 +101,6 @@ Tasks related to new content.
 
 # Clients
 
-* [todo-md-cli](https://github.com/todo-md/todo-md-cli) - Official todo-md command line tool.
-* [Add yours](https://github.com/todo-md/todo-md/issues) - Add your client or implementation to this readme file.
+* [todo-md-cli](https://github.com/todo-md/todo-md-cli) - Official TODO.md command line tool.
+
+[Add your](https://github.com/todo-md/todo-md/issues/new) client or implementation of TODO.md to this readme file.
