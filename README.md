@@ -38,6 +38,10 @@ And this text neither.
 
 - [ ] This task is open @owner
 
+# BACKLOG
+
+- [ ] This task is postponed
+
 # DONE
 
 - [x] This task is done #prio1
@@ -73,7 +77,7 @@ This hierarchy helps organizing and listing tasks either manually or using a sof
 
 # Example
 
-Example for a 
+Example for a todo file.
 
 **TODO.md**
 
