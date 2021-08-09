@@ -37,6 +37,7 @@ This text is not a task.
 And this text neither.
 
 - [ ] This task is open @owner
+  - [ ] And it has a subtask!
 
 # BACKLOG
 
@@ -91,6 +92,7 @@ This is the markdown todo file for project a.
 Tasks related to new content.
 
 - [ ] Add readme file with newline #example
+  - [ ] Create Pull Request
 
 ## Release
 
@@ -100,7 +102,7 @@ Tasks related to new content.
 
 # DONE
 
-- [x] Create GitHub organization tood-md
+- [x] Create GitHub organization todo-md
 ```
 
 # Clients
